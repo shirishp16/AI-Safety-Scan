@@ -1,4 +1,5 @@
 **HazardScan**
+
 Safety Observation Comment Classifier Using AI
 
 This repository contains a program designed to classify safety observation comments into hazard categories based on their severity. The program utilizes natural language processing (NLP) capabilities provided by large language models (LLMs) to identify and categorize comments efficiently.
